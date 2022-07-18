@@ -17,14 +17,14 @@ console.log(myFunct4(a,b));
 
 // Functions with arrows
 
-const aPlusB = (a,b) => a + b
+const aPlusB = (a,b) => a + b;
 console.log(aPlusB(a,b));
 
-const aMinB = (a,b) => a - b
+const aMinB = (a,b) => a - b;
 console.log(aMinB(a,b));
 
-const aMulB = (a,b) => a * b
+const aMulB = (a,b) => a * b;
 console.log(aMulB(a,b));
 
-const aDivB = (a,b) => a / b
+const aDivB = (a,b) => a / b;
 console.log(aDivB(a,b));
